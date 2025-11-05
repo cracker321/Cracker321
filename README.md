@@ -1,10 +1,10 @@
 ## 🚀About Me
 
 - 안녕하세요! 쿠버네티스와 AWS 그리고 Terraform 에 대한 기본 이해를 바탕으로 꾸준히 성장하는 개발자가 되기 위해 정진하는 조유종입니다.
-- 최근에는 클라우드 네이티브 구현 기술인 쿠버네티스와 AWS 그리고 Terraform 대한 기본 이해를 바탕으로
+- 클라우드 네이티브 구현 기술인 쿠버네티스와 AWS 그리고 Terraform 대한 기본 이해를 바탕으로
   <br>Certified Kubernetes Administrator(CKA) 자격증과 AWS Certified Solutions Architect Associate 자격증 그리고 Terraform Associate 003 자격증을 취득했습니다.
   <br>
-  이를 통해 클라우드 애플리케이션의 배포와 운영의 기초 지식을 배양하였으며,
+  이를 통해 클라우드 환경에서의 애플리케이션의 배포와 운영의 기초 지식을 배양하였으며,
   <br>
   이러한 역량을 바탕으로 더욱 효과적인 서비스 개발을 위해 노력하고 있습니다.
 - 튼튼한 기본기 바탕 위에서, 새로운 기술을 배우고 새로운 경험하는 것을 추구합니다.
